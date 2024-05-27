@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1 class="text-2xl">Home Page</h1>
-
+    <h1 class="text-2xl mb-4">Home Page</h1>
+    <p class="text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint doloribus nostrum repellendus reprehenderit ipsam. Autem, necessitatibus, expedita numquam dolor ipsum, harum beatae impedit iure voluptate repellendus atque eaque facilis odio.</p>
     <!-- <Head>
       <Title>{{ title }}</Title>
       <Meta name="description" :content="title" />
